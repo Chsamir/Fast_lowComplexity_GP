@@ -52,3 +52,4 @@ If you have any questions, feedback, or suggestions regarding this demo, please 
 
 - Email: anis.fradi@uca.fr
 - Email: amal.omrani@dauphine.psl.eu
+- Email: chafik.samir@uca.fr
